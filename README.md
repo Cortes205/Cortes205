@@ -1,10 +1,18 @@
-- Hi, I’m @Cortes205, my name is Alan!
-- I love problem solving and learning new things. I have a high interest in software and web development. 
-- My favourite programming language is Java (mostly due to it being what I learned in highschool), however I can code well in C, C#, HTML, CSS, JavaScript, and I know some python as well.
-- I can speak English and Spanish, and I want to start learning French and Portuguese.
-- I hope you like the projects I have worked on! If you have any questions or suggestions just let me know!
+# Hi, my name is Alan!
 
-<!---
-Cortes205/Cortes205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**I create stuff**
+
+<p>I'm a computer science student at the University of Guelph in Ontario, Canada</p>
+
+<p>I love problem solving and learning new things<br>
+I have a high interest in software and web development, cloud computing, AI, and much more</p>
+
+<p>My favourite programming language is Java (it being the first language I learned). However,<br>
+I can code very well in C/C++, C#, HTML, CSS, JavaScript, Python, and since the learning never stops, this list will keep growing!</p>
+
+<p>I speak English, Spanish, and am currently learning Portuguese!<br>
+I hope to learn French this summer once this semester finishes</p>
+
+<p>Outside of my work, I love listening to music, going to the gym, cooking, and watching movies</p>
+
+Let's connect on [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/cortes205)
