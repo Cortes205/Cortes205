@@ -1,4 +1,4 @@
-# Hi, my name is Alan!
+Hi, my name is Alan!
 
 **I create stuff**
 
@@ -15,4 +15,5 @@ I hope to learn French this summer once this semester finishes</p>
 
 <p>Outside of my work, I love listening to music, going to the gym, cooking, and watching movies</p>
 
-Let's connect on [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/cortes205)
+Let's connect on
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/cortes205)
